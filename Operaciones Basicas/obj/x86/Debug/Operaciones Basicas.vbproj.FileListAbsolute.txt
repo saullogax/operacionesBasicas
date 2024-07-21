@@ -1,0 +1,18 @@
+c:\users\ad07\documents\visual studio 2010\Projects\Operaciones Basicas\Operaciones Basicas\bin\Debug\Operaciones Basicas.exe
+c:\users\ad07\documents\visual studio 2010\Projects\Operaciones Basicas\Operaciones Basicas\bin\Debug\Operaciones Basicas.pdb
+c:\users\ad07\documents\visual studio 2010\Projects\Operaciones Basicas\Operaciones Basicas\bin\Debug\Operaciones Basicas.xml
+c:\users\ad07\documents\visual studio 2010\Projects\Operaciones Basicas\Operaciones Basicas\obj\x86\Debug\Operaciones_Basicas.Form1.resources
+c:\users\ad07\documents\visual studio 2010\Projects\Operaciones Basicas\Operaciones Basicas\obj\x86\Debug\Operaciones_Basicas.Resources.resources
+c:\users\ad07\documents\visual studio 2010\Projects\Operaciones Basicas\Operaciones Basicas\obj\x86\Debug\Operaciones Basicas.vbproj.GenerateResource.Cache
+c:\users\ad07\documents\visual studio 2010\Projects\Operaciones Basicas\Operaciones Basicas\obj\x86\Debug\Operaciones Basicas.exe
+c:\users\ad07\documents\visual studio 2010\Projects\Operaciones Basicas\Operaciones Basicas\obj\x86\Debug\Operaciones Basicas.xml
+c:\users\ad07\documents\visual studio 2010\Projects\Operaciones Basicas\Operaciones Basicas\obj\x86\Debug\Operaciones Basicas.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\Operaciones Basicas\Operaciones Basicas\obj\x86\Debug\Operaciones Basicas.exe
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\Operaciones Basicas\Operaciones Basicas\obj\x86\Debug\Operaciones Basicas.xml
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\Operaciones Basicas\Operaciones Basicas\obj\x86\Debug\Operaciones Basicas.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\Operaciones Basicas\Operaciones Basicas\bin\Debug\Operaciones Basicas.exe
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\Operaciones Basicas\Operaciones Basicas\bin\Debug\Operaciones Basicas.pdb
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\Operaciones Basicas\Operaciones Basicas\bin\Debug\Operaciones Basicas.xml
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\Operaciones Basicas\Operaciones Basicas\obj\x86\Debug\Operaciones_Basicas.Form1.resources
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\Operaciones Basicas\Operaciones Basicas\obj\x86\Debug\Operaciones_Basicas.Resources.resources
+D:\Ccomputadora HP\UADEO\Memoria blanca con rojo\Pancho6Trimestre\Operaciones Basicas\Operaciones Basicas\obj\x86\Debug\Operaciones Basicas.vbproj.GenerateResource.Cache
